@@ -1,0 +1,15 @@
+using UnityEngine;
+using System.Collections;
+using System.Collections.Generic;
+
+
+#ROOTNAMESPACEBEGIN#
+namespace ANappTestTask
+{
+	[CreateAssetMenu(fileName = "#SCRIPTNAME#", menuName = "ANappTestTask/#SCRIPTNAME#")]
+	public class #SCRIPTNAME# : DescriptionSO
+	{
+	 
+	}
+}
+#ROOTNAMESPACEEND#
